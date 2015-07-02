@@ -1,4 +1,4 @@
-package jz;
+package csi;
 
 /**
 * A library for terminal control characters.
